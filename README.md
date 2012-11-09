@@ -1,0 +1,4 @@
+Cambridge-Technology-Enterprises
+================================
+
+We are a state of the art IT company with global locations.  We use our patented parser based technology to build world class transformation tools which are recognized by Fortune 500 as well as medium sized businesses such as BMW, Shell, Commerzbank, Kimberly-Clark, OfficeMax, Scotts, Miracle-Gro. Global organizations like IBM, SAP, and Accenture have partnered with us to provide the solutions to their customers. Our on-site and SaaS tools transform IT applications to newer versions and latest technologies. We assist companies to develop Cloud based applications using our tool set, migrate those to the Cloud, and manage these applications on customized public or private cloud platforms.
